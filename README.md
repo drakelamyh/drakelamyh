@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @drakelamyh
-- 👀 I’m interested in learning about programming. Areas of interest include JavaScript, Python, Excel VBA.
-- 🌱 I’m currently learning Python.
+
+- 👀 I’m interested in learning about programming and data analytics. Areas of interest include JavaScript, Python, Excel VBA, Machine Learning and Artificial Intelligence, .
+
+- 🌱 I’m currently learning Python, SQL, Artificial Intelligence.
+
 - 💞️ I’m looking to collaborate on areas relating to Data Science and Data Analysis.
-- 📫 How to reach me ...
+
+- 📫 Reach out to me for opprtunities at yuehao.lam@gmail.com
+
 
 <!---
 drakelamyh/drakelamyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
