@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning about programming and data analytics. Areas of interest include JavaScript, Python, Excel VBA, Machine Learning and Artificial Intelligence, .
 
-- 🌱 I’m currently learning Python, SQL, Artificial Intelligence.
+- 🌱 I’m currently learning Python, SQL, Excel VBA, and Artificial Intelligence.
 
 - 💞️ I’m looking to collaborate on areas relating to Data Science and Data Analysis.
 
