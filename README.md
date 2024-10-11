@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on areas relating to Data Science and Data Analysis.
 
-- 📫 Reach out to me for opprtunities at yuehao.lam@gmail.com
+- 📫 Reach out to me for work opportunities at yuehao.lam@gmail.com
 
 
 <!---
